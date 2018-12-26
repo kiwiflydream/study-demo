@@ -13,7 +13,6 @@
 
     <name>study-jmh-demo</name>
 
-
     <dependencies>
         <dependency>
             <groupId>org.openjdk.jmh</groupId>
